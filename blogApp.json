@@ -1,0 +1,8 @@
+{
+    "url": "https://blogclient-rubia.vercel.app/",
+    "endpoints": {
+        "register": "/register",
+        "login": "/login",
+        "posts": "/posts"
+    }
+}
